@@ -1,6 +1,5 @@
 # Course_Introduction_To_Ansible
-An A Cloud Guru Course - 
-Introduction To Ansible
+ Ansible
 
 Being able to configure and update your environments is an important part of DevOps. Doing these tasks quickly and easily is even more important. Ansible helps solve the problem of manually configuring servers one-by-one. Using Ansible as an automation tool System Administrators can update and configure servers from a single machine. 
 This course is a way to learn how to setup Ansible and a sandbox environment to learn in. You’ll learn how to manage servers using Ansible playbooks, stand up a new environments, and monitor your cloud infrastructure. 
